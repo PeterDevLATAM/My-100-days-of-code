@@ -12,3 +12,7 @@ Today I learned Class components and Functional components. I still don't have i
 [Link to Repo](https://github.com/PeterDevLATAM/ZTM_React-Basis)
 
 ### R1D2
+Today I started a small e-comerce project. Things I've learned: 
+Project's structure 
+React Router
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crwn-clothing)

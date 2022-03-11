@@ -8,5 +8,6 @@
 * [Resources for anyone interested](resources.md)
 ### Links for each day
 * [R1D1](https://github.com/PeterDevLATAM/ZTM_React-Basis/tree/86196be053dd0ae44859c42cf87a3be2f9ee9a66)
+* [R1D2](https://github.com/PeterDevLATAM/crwn-clothing)
 
 
