@@ -9,10 +9,15 @@ Disclosure: I'm taking a ZTM React course in Udemy
 ### R1D1 
 Today I finally commited! (pun intended). It's the offitial start date even though all this days I've been doing something. 
 Today I learned Class components and Functional components. I still don't have it clear when to use one over the other. But I know now basic structure and key concepts. 
-[Link to Repo](https://github.com/PeterDevLATAM/ZTM_React-Basis)
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/ZTM_React-Basis)
 
 ### R1D2
 Today I started a small e-comerce project. Things I've learned: 
 Project's structure 
 React Router
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crwn-clothing)
+
+### R1D3
+Today I continued with the sample project of the ecomerce site. I integrated firebase/auth and studied the basics of structures and methods provided. That was a lot to digest, i'll have to practice it a lot!
+
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/crwn-clothing)
