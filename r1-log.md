@@ -1,7 +1,7 @@
 # #100DaysOfCode Log - Round 1 - Pedro Diaz Cruz
 
 The log of my #100DaysOfCode challenge. Started on [March 24, Wednsday, 2022].
-To be fair I've been coding for a while, but now officialy decided to make it the center of my atention. I wanted to master react in #100DaysOfCode
+To be fair I've been coding for a little while, but now officialy decided to make it the center of my atention. I wanted to master react in #100DaysOfCode
 Disclosure: I'm taking a ZTM React course in Udemy
 
 ## Log
@@ -21,3 +21,9 @@ React Router
 Today I continued with the sample project of the ecomerce site. I integrated firebase/auth and studied the basics of structures and methods provided. That was a lot to digest, i'll have to practice it a lot!
 
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/crwn-clothing)
+
+### R1D4
+Awwwww fuck! it's only 4 days?! And is my first saturday as well. Today was mildly productive but it was a lot to digest and understand, so I conider it a win. 
+I added firebase auth to the ecommerce project. I understood key concepts and utility functions. So cool.
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crwn-clothing/tree/41476cee4be99616efe6be285caeca79b47d3f92)
