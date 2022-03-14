@@ -27,3 +27,8 @@ Awwwww fuck! it's only 4 days?! And is my first saturday as well. Today was mild
 I added firebase auth to the ecommerce project. I understood key concepts and utility functions. So cool.
 
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/crwn-clothing/tree/41476cee4be99616efe6be285caeca79b47d3f92)
+
+### R1D5
+Well, today I climbed the higest elevation in LATAM so I had limited time. I just added a sign in button component that worked with google auth, that is something new I learn, fix a small bug (still many there) And I something about redux, wich is the next step. 
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crwn-clothing/tree/5e1af6270ba91ba13867e598d6b5f4493afeac2c)
