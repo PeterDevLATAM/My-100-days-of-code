@@ -40,5 +40,10 @@ Today I spent way more than 1h, given the fact that yestarday I did nothing. I r
 
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/5f17c3cca57e07aa12d34a66f74ee0c807556da2)
 
+### R1D7
+Today I learned a lot about React Context and implemented some functionality in the Ecommerce project. I still need to wrap my head around the concepts and the strucrture. I guess I'll perfected with practice. 
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/08d9cc73259af33c2c303149c134ace0d663622f)
+
 
 
