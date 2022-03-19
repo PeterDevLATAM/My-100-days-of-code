@@ -45,5 +45,15 @@ Today I learned a lot about React Context and implemented some functionality in 
 
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/08d9cc73259af33c2c303149c134ace0d663622f)
 
+### R1D8
+I practiced React Context, added context functionality trhough out the app.
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/229ee8824f059b814203d06f34ce3af1326f66ed)
+
+### R1D9
+I continued practicig with react context. I learned key concepts and data structure of firebase. I moved the data that i had stored locally to firestore, retrieve them for the UI. I learned and practiced methods to retrieve and store data from the db. 
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/a98276c31d27b0077734eba5f50a38b2983ca0b6)
+
 
 

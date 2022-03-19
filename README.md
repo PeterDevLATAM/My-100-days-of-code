@@ -16,4 +16,6 @@
 - [R1D5](https://github.com/PeterDevLATAM/crwn-clothing/tree/5e1af6270ba91ba13867e598d6b5f4493afeac2c)
 - [R1D6](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/5f17c3cca57e07aa12d34a66f74ee0c807556da2)
 - [R1D7](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/08d9cc73259af33c2c303149c134ace0d663622f)
+- [R1D8](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/229ee8824f059b814203d06f34ce3af1326f66ed)
+- [R1D9](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/a98276c31d27b0077734eba5f50a38b2983ca0b6)
 
