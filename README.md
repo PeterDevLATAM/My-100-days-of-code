@@ -18,4 +18,8 @@
 - [R1D7](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/08d9cc73259af33c2c303149c134ace0d663622f)
 - [R1D8](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/229ee8824f059b814203d06f34ce3af1326f66ed)
 - [R1D9](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/a98276c31d27b0077734eba5f50a38b2983ca0b6)
-
+- [R1D10](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/cbf5dd5368d615c5d3342e8f5e51db5846d40afd)
+- [R1D11]() Design course
+- [R1D12]() Fast forward new React Course. (The basics). Code along some new way of doing things.
+- [R1D13]() Fast forward new React Course. (The basics). Code along some new way of doing things.
+- [R1D14](https://github.com/PeterDevLATAM/memory-cards/tree/532cfbcee75613a0270c50aabbd4996dac6d2bfa)

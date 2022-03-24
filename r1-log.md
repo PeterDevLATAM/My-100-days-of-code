@@ -54,6 +54,30 @@ I practiced React Context, added context functionality trhough out the app.
 I continued practicig with react context. I learned key concepts and data structure of firebase. I moved the data that i had stored locally to firestore, retrieve them for the UI. I learned and practiced methods to retrieve and store data from the db. 
 
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/a98276c31d27b0077734eba5f50a38b2983ca0b6)
+### R1D10
+I was finishing off the Ecommerce project, I polish some details and pushed up to netlify. Took on itegration with stripe but I was having some error. 
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/crown-clothing-v2/tree/cbf5dd5368d615c5d3342e8f5e51db5846d40afd)
+
+### R1D11
+I pushed the some new code with an express backend for stripe to heroku, in dev mode I'm still having an error. I spent most of my day finishing a web design course in Udemy. 
+
+
+
+### R1D12
+Today I started a new course on React. I went over the concepts and structures i already new so I rewatch in FF over the basic lessons I already knew
+
+
+
+### R1D13
+Same thing as the day before. It was a little bit boring going over the things i already know, except for a few moments I mostly felt that I was loosing my time. 
+
+
+
+### R1D14
+Today I did a complete small game. With resourses provided by the course I'm taking. I practiced some concepts and structures but it was relativly simple. I felt Good.
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/memory-cards/tree/532cfbcee75613a0270c50aabbd4996dac6d2bfa)
 
 
 
