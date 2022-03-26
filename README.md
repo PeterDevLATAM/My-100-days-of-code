@@ -23,3 +23,4 @@
 - [R1D12]() Fast forward new React Course. (The basics). Code along some new way of doing things.
 - [R1D13]() Fast forward new React Course. (The basics). Code along some new way of doing things.
 - [R1D14](https://github.com/PeterDevLATAM/memory-cards/tree/532cfbcee75613a0270c50aabbd4996dac6d2bfa)
+- [R1D15](https://github.com/PeterDevLATAM/recpie-directory/tree/66a74b9df960cc5e04d873748a80d45edebb6ae1)

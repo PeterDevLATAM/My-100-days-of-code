@@ -80,4 +80,10 @@ Today I did a complete small game. With resourses provided by the course I'm tak
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/memory-cards/tree/532cfbcee75613a0270c50aabbd4996dac6d2bfa)
 
 
+### R1D15
+Today I started a new project, as part of the course I'm taking I coded component structure and compare solutions. 
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/memory-cards/tree/532cfbcee75613a0270c50aabbd4996dac6d2bfa)
+
+
 
