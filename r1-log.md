@@ -86,4 +86,10 @@ Today I started a new project, as part of the course I'm taking I coded componen
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/recpie-directory/tree/66a74b9df960cc5e04d873748a80d45edebb6ae1)
 
 
+### R1D16
+Today I learned about reducers and continue to practice React Context API. I felt relatively ok. 
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/recpie-directory/tree/b348d6292d4617c6103473e7349cb7c4f11d9e4f)
+
+
 
