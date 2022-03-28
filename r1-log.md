@@ -91,5 +91,9 @@ Today I learned about reducers and continue to practice React Context API. I fel
 
 [Link to Repo/Commit](https://github.com/PeterDevLATAM/recpie-directory/tree/b348d6292d4617c6103473e7349cb7c4f11d9e4f)
 
+### R1D16
+Today I practiced with Firebase firestore and auth. I completed the small project I was doing and started a new one. 
+
+[Link to Repo/Commit](https://github.com/PeterDevLATAM/money-ledger/tree/8e5f1c9d98f1811b7014aa90c05953f5cef3c31a)
 
 
