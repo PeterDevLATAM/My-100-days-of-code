@@ -9,6 +9,7 @@
 
 ### Links for each day
 
+- [R1D18](https://github.com/PeterDevLATAM/money-ledger/tree/8ada3481ad9f7ae188362614cdf48973e7d93d2e)
 - [R1D17](https://github.com/PeterDevLATAM/money-ledger/tree/8e5f1c9d98f1811b7014aa90c05953f5cef3c31a)
 - [R1D16](https://github.com/PeterDevLATAM/recpie-directory/tree/b348d6292d4617c6103473e7349cb7c4f11d9e4f)
 - [R1D15](https://github.com/PeterDevLATAM/recpie-directory/tree/66a74b9df960cc5e04d873748a80d45edebb6ae1)
